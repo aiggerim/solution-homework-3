@@ -1,3 +1,5 @@
+package Assignment1;
+
 class NPC {
     private String name;
     private int health;

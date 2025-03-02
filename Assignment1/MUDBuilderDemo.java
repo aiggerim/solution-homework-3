@@ -1,3 +1,5 @@
+package Assignment1;
+
 public class MUDBuilderDemo {
     public static void main(String[] args) {
         SimpleDungeonBuilder builder = new SimpleDungeonBuilder();

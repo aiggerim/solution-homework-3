@@ -1,3 +1,5 @@
+package Assignment1;
+
 class Room {
     private String name;
     private String description;

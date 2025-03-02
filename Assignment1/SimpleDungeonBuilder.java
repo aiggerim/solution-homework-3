@@ -1,3 +1,5 @@
+package Assignment1;
+
 class SimpleDungeonBuilder implements IDungeonBuilder {
     private Dungeon dungeon = new Dungeon();
 
